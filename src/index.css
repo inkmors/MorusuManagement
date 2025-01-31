@@ -8,11 +8,6 @@
   src: url('../public/fonts/JosefinSans-VariableFont_wght.ttf');
 }
 
-/* @font-face{
-  font-family: 'WorkSans Bold';
-  src: url('../public/fonts/WorkSans-Bold.ttf');
-} */
-
 *{
   margin: 0;
   padding: 0;
@@ -35,11 +30,9 @@ code {
 #root{
   width: 100%;
   height: 100vh;
-
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-
   background-color: rgb(18, 18, 24);
 }
